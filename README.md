@@ -16,3 +16,9 @@ To create a local network that used a dynamic routing protocol to automatically 
 3. Troubleshoot network problem and  authentication problem
 4. Assigning IP addresses in the router interfaces
 5. General routing configuration
+
+# Project Walk through
+<p align="center">
+Network Diagram: <br/>
+<img src="" height="80%" width="80%"/>
+<br />
