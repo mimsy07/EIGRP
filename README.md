@@ -20,5 +20,5 @@ To create a local network that used a dynamic routing protocol to automatically 
 # Project Walk through
 <p align="center">
 Network Diagram: <br/>
-<img src="https://github.com/mimsy07/EIGRP/blob/main/EIGRP%20Topo.png" height="80%" width="80%"/>
+<img src="https://github.com/mimsy07/EIGRP/blob/main/Images/EIGRP%20Topo.png" height="80%" width="80%"/>
 <br />
