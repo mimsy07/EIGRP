@@ -1,4 +1,4 @@
-# :sob: EIGRP
+# :tired_face: EIGRP
 This project demonstrates the implementation of EIGRP routing protocol (Enhanced Interior Gateway Protocol) in a local area network environment. Enhanced Interior Gateway Routing Protocol is a Hybrid type of routing protocol that used DUAL (Diffuse Upgrade Algorithm) as its algorithm used to dynamically exchange routing information and determine the best and reliable path between network. EIGRP is by default has a faster convergence time than the other routing protocol.
 
 This network is configured with the EIGRP routing protocol and an autonomous system number 200, allowing routers to learn and maintain remote networks automatically. This project also demonstrates the implementation of passive-interface disabling interface that doesn't need to send out hello messages, preventing unauthorized neighbor discovery.
