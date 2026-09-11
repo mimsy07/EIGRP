@@ -22,14 +22,17 @@ To create a local network that used a dynamic routing protocol to automatically 
 Network Diagram: <br/>
 <img src="https://github.com/mimsy07/EIGRP/blob/main/Images/EIGRP%20Topo.png" height="80%" width="80%"/>
 <br />
+<br />
   
 <h3>Routing table from R1 and R10's perspective</h3>
 
 <p align="left">
 R1's routing protocol
-<img src="https://github.com/mimsy07/EIGRP/blob/main/Images/EIGRP%20Topo.png" height="80%" width="80%"/>
+<img src="https://github.com/mimsy07/EIGRP/blob/main/Images/R1%20routing%20table.png" height="60%" width="60%"/>
 <br />
+<br />
+  
 <p align="left">
 R10's routing protocol
-<img src="https://github.com/mimsy07/EIGRP/blob/main/Images/EIGRP%20Topo.png" height="80%" width="80%"/>
+<img src="https://github.com/mimsy07/EIGRP/blob/main/Images/R10%20routing%20table.png" height="60%" width="60%"/>
 <br />
